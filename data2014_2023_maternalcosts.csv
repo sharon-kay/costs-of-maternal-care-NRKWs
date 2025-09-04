@@ -1,0 +1,630 @@
+"whale.id","matriline","year","sex","birth.year","death.year","mean.ep","n.ep","SD","area","age","pregnancy","pregnancy.simple","status","num.offspring","num.births","num.sons","num.daughters","has.son","has.adultson","age.sex.class.full","age.sex.class","salmon","mother.status"
+"W1","M1",2014,"f",1981,NA,1.243424293,3,0.011730045,"J strait",33,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female reproductive","reproductive female",1.706666667,NA
+"W2","M1",2014,"m",1992,NA,1.199427282,2,0.002731332,"J strait",22,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,NA
+"W3","M1",2014,"f",1997,NA,1.13538037,4,0.005365899,"J strait",17,"Nursing 1","Nursing","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",1.706666667,NA
+"W4","M1",2014,"m",2009,NA,1.096730388,5,0.01425693,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W5","M2",2014,"m",1994,NA,1.197146417,3,0.014851744,"J strait",20,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,NA
+"W6","M3",2014,"m",1971,2017,1.138239696,3,0.006922677,"J strait",43,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,"dead"
+"W7","M4",2014,"m",1982,2017,1.266019905,3,0.031243015,"J strait",32,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,"dead"
+"W8","M5",2014,"f",2013,NA,1.136993177,1,NA,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.706666667,NA
+"W9","M5",2014,"f",1980,NA,1.19936937,2,0.005539789,"J strait",34,"Nursing 2","Nursing","alive",4,5,1,3,"yes","yes","female reproductive","reproductive female",1.706666667,NA
+"W10","M5",2014,"m",1996,2023,1.226791692,2,0.020554655,"J strait",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,NA
+"W11","M5",2014,"f",2004,NA,1.146388345,3,0.0062894,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.706666667,NA
+"W12","M6",2014,"m",2014,NA,1.173107132,1,NA,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.706666667,NA
+"W13","M6",2014,"f",1999,NA,1.128149273,3,0.004451037,"J strait",15,"Nursing 1","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.706666667,NA
+"W14","M6",2014,"m",2005,NA,1.162411504,4,0.010377886,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W15","M6",2014,"m",2011,NA,1.132737531,3,0.006376597,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.706666667,NA
+"W16","M7",2014,"m",2013,NA,1.110944125,1,NA,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.706666667,NA
+"W17","M7",2014,"f",1989,NA,1.145410878,2,0.02842977,"J strait",25,"Nursing 2","Nursing","alive",3,5,1,2,"yes","no","female reproductive","reproductive female",1.706666667,NA
+"W18","M7",2014,"f",2006,NA,1.183800399,2,0.007960036,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.706666667,NA
+"W19","M8",2014,"m",1987,NA,1.20813928,1,NA,"J strait",27,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,NA
+"W20","M9",2014,"f",1972,NA,1.190044741,1,NA,"J strait",42,"Not pregnant","Not pregnant","alive",4,6,0,3,"no","no","female post reproductive","post reproductive female",1.706666667,NA
+"W21","M9",2014,"f",1985,NA,1.165948034,3,0.019130182,"J strait",29,"Nursing 2","Nursing","alive",3,4,2,0,"yes","yes","female reproductive","reproductive female",1.706666667,NA
+"W22","M9",2014,"f",1998,NA,1.152522576,1,NA,"J strait",16,"Pregnant","Pregnant","alive",1,1,0,0,"no","no","female reproductive","reproductive female",1.706666667,NA
+"W23","M9",2014,"m",2000,2018,1.161946353,2,0.00394956,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.706666667,"alive"
+"W24","M9",2014,"m",2007,NA,1.086176925,1,NA,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W25","M9",2014,"u",2009,NA,1.124812577,4,0.008745264,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.706666667,NA
+"W26","M9",2014,"u",2009,NA,1.108782363,1,NA,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.706666667,NA
+"W27","M9",2014,"u",2014,NA,1.131135517,2,0.020226966,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.706666667,NA
+"W28","M10",2014,"f",1990,NA,1.210014542,2,0.004952199,"J strait",24,"Pregnant","Pregnant","alive",2,2,1,0,"yes","no","female reproductive","reproductive female",1.706666667,NA
+"W29","M10",2014,"m",2005,NA,1.098639494,2,0.013091228,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W30","M11",2014,"f",1984,NA,1.108841563,5,0.009179311,"J strait",30,"Nursing 3","Not pregnant","alive",3,3,0,2,"no","no","female reproductive","reproductive female",1.706666667,NA
+"W31","M11",2014,"f",1998,NA,1.154906956,4,0.014059925,"J strait",16,"Pregnant","Pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.706666667,NA
+"W32","M11",2014,"f",2005,NA,1.142613349,2,0.001535905,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.706666667,NA
+"W33","M11",2014,"u",2012,NA,1.066431511,3,0.023317192,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.706666667,NA
+"W34","M12",2014,"f",1972,NA,1.162959881,1,NA,"J strait",42,"Not pregnant","Not pregnant","alive",0,1,0,0,"no","no","female post reproductive","post reproductive female",1.706666667,NA
+"W35","M13",2014,"m",1985,2019,1.228150646,1,NA,"J strait",29,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.706666667,"alive"
+"W36","M13",2014,"m",1997,2020,1.104224238,3,0.028126343,"J strait",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.706666667,"alive"
+"W37","M14",2014,"m",2004,NA,1.076168342,1,NA,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W38","M14",2014,"m",2009,NA,1.080429757,1,NA,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,"alive"
+"W39","M14",2014,"f",2014,NA,1.163373901,1,NA,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.706666667,NA
+"W40","M14",2014,"f",1969,2019,1.172984067,4,0.008280701,"J strait",45,"Pregnant - early stages","Not pregnant","alive",3,7,2,1,"yes","yes","female post reproductive","post reproductive female",1.706666667,"dead"
+"W41","M14",2014,"f",1986,NA,1.124345031,6,0.01046589,"J strait",28,"Nursing 1","Nursing","alive",3,3,1,2,"yes","no","female reproductive","reproductive female",1.706666667,NA
+"W42","M14",2014,"m",2002,NA,1.107219622,5,0.009571339,"J strait",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.706666667,NA
+"W43","M15",2014,"m",2004,NA,1.115337903,3,0.035919606,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W44","M15",2014,"f",1974,NA,1.199787546,3,0.006935816,"J strait",40,"Pregnant - early stages","Not pregnant","alive",2,3,2,0,"yes","yes","female post reproductive","post reproductive female",1.706666667,NA
+"W45","M15",2014,"f",1990,2014,0.999016438,3,0.010865513,"J strait",24,"Nursing 1","Nursing","dead",0,1,0,0,"no","no","female reproductive","reproductive female",1.706666667,"alive"
+"W46","M15",2014,"m",1997,NA,1.208716296,4,0.021897577,"J strait",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.706666667,NA
+"W47","M16",2014,"f",2002,NA,1.087391191,2,0.005660842,"J strait",12,"Nursing 1","Nursing","alive",1,1,0,1,"no","no","female reproductive","reproductive female",1.706666667,NA
+"W48","M16",2014,"u",2012,NA,1.106879939,1,NA,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.706666667,NA
+"W49","M16",2014,"f",2014,NA,1.118811379,2,0.003931929,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.706666667,NA
+"W50","M17",2014,"f",2003,NA,1.155486179,5,0.017081018,"J strait",11,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.706666667,NA
+"W51","M17",2014,"f",1980,NA,1.193527604,3,0.01437224,"J strait",34,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female reproductive","reproductive female",1.706666667,NA
+"W52","M17",2014,"m",1997,NA,1.18547974,3,0.027506475,"J strait",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.706666667,NA
+"W53","M18",2014,"u",2003,2015,1.112519997,5,0.008653302,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.706666667,"alive"
+"W54","M18",2014,"m",2007,NA,1.159038422,9,0.012637058,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.706666667,NA
+"W55","M18",2014,"u",2014,NA,1.141235214,7,0.016124874,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.706666667,NA
+"W56","M18",2014,"f",1990,NA,1.171216743,7,0.005322166,"J strait",24,"Nursing 1","Nursing","alive",3,3,1,0,"yes","no","female reproductive","reproductive female",1.706666667,NA
+"W1","M1",2015,"f",1981,NA,1.246927289,6,0.01021615,"J strait",34,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female reproductive","reproductive female",1.563333333,NA
+"W2","M1",2015,"m",1992,NA,1.21434177,3,0.001151159,"J strait",23,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.563333333,NA
+"W4","M1",2015,"m",2009,NA,1.082174864,4,0.012402661,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W5","M2",2015,"m",1994,NA,1.239356379,5,0.021743791,"J strait",21,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.563333333,NA
+"W6","M3",2015,"m",1971,2017,1.129012261,2,0.030151619,"J strait",44,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.563333333,"dead"
+"W57","M19",2015,"m",1990,NA,1.218869876,3,0.01016203,"J strait",25,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.563333333,NA
+"W58","M19",2015,"f",1994,NA,1.170539519,2,0.008492884,"J strait",21,"Nursing 3","Not pregnant","alive",3,3,3,0,"yes","no","female reproductive","reproductive female",1.563333333,NA
+"W59","M19",2015,"f",1997,NA,1.168932153,1,NA,"J strait",18,"Pregnant","Pregnant","alive",1,2,1,0,"yes","no","female reproductive","reproductive female",1.563333333,NA
+"W60","M19",2015,"m",2004,NA,1.130721735,2,0.018961015,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W61","M19",2015,"m",2005,NA,1.102294111,3,0.021346317,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W62","M20",2015,"m",2004,NA,1.115876173,1,NA,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W8","M5",2015,"f",2013,NA,1.106476549,1,NA,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.563333333,NA
+"W63","M6",2015,"f",1984,NA,1.136093454,5,0.015165083,"J strait",31,"Pregnant - early stages","Not pregnant","alive",3,3,2,1,"yes","no","female reproductive","reproductive female",1.563333333,NA
+"W13","M6",2015,"f",1999,NA,1.099114166,4,0.014603232,"J strait",16,"Nursing 2","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.563333333,NA
+"W14","M6",2015,"m",2005,NA,1.144240497,1,NA,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W15","M6",2015,"m",2011,NA,1.127215278,1,NA,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W64","M7",2015,"f",2002,NA,1.182646388,1,NA,"J strait",13,"Pregnant","Pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",1.563333333,NA
+"W18","M7",2015,"f",2006,NA,1.152786683,3,0.011633906,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.563333333,NA
+"W21","M9",2015,"f",1985,NA,1.206228439,1,NA,"J strait",30,"Nursing 3","Not pregnant","alive",3,4,2,0,"yes","yes","female reproductive","reproductive female",1.563333333,NA
+"W22","M9",2015,"f",1998,NA,1.146797782,2,0.00511292,"J strait",17,"Nursing 1","Nursing","alive",2,2,0,0,"no","no","female reproductive","reproductive female",1.563333333,NA
+"W65","M21",2015,"f",2003,NA,1.203135951,2,0.007423468,"J strait",12,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.563333333,NA
+"W66","M22",2015,"f",1987,2019,1.264327012,3,0.012669543,"J strait",28,"Pregnant","Pregnant","alive",1,2,1,0,"yes","no","female reproductive","reproductive female",1.563333333,"alive"
+"W67","M22",2015,"m",2012,NA,1.087585141,1,NA,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.563333333,NA
+"W37","M14",2015,"m",2004,NA,1.100025852,4,0.024859777,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W68","M14",2015,"f",2009,NA,1.101978979,1,NA,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.563333333,"alive"
+"W39","M14",2015,"f",2014,NA,1.138589859,1,NA,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.563333333,NA
+"W40","M14",2015,"f",1969,2019,1.182952455,4,0.005249241,"J strait",46,"Pregnant","Pregnant","alive",3,7,2,1,"yes","yes","female post reproductive","post reproductive female",1.563333333,"dead"
+"W41","M14",2015,"f",1986,NA,1.116255928,5,0.011440589,"J strait",29,"Nursing 2","Nursing","alive",3,3,1,2,"yes","no","female reproductive","reproductive female",1.563333333,NA
+"W42","M14",2015,"m",2002,NA,1.125568069,2,0.015418606,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.563333333,NA
+"W43","M15",2015,"m",2004,NA,1.125089153,5,0.013702892,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W44","M15",2015,"f",1974,NA,1.198348762,3,0.004227392,"J strait",41,"Pregnant","Pregnant","alive",2,3,2,0,"yes","yes","female post reproductive","post reproductive female",1.563333333,NA
+"W46","M15",2015,"m",1997,NA,1.207008655,3,0.005546963,"J strait",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.563333333,NA
+"W50","M17",2015,"f",2003,NA,1.159797556,4,0.009222284,"J strait",12,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.563333333,NA
+"W51","M17",2015,"f",1980,NA,1.186601671,6,0.015776883,"J strait",35,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female reproductive","reproductive female",1.563333333,NA
+"W52","M17",2015,"m",1997,NA,1.184309803,3,0.014434398,"J strait",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.563333333,NA
+"W54","M18",2015,"m",2007,NA,1.165420934,1,NA,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.563333333,NA
+"W55","M18",2015,"u",2014,NA,1.105064543,1,NA,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.563333333,NA
+"W56","M18",2015,"f",1990,NA,1.152405957,4,0.004142239,"J strait",25,"Nursing 2","Nursing","alive",2,3,1,0,"yes","no","female reproductive","reproductive female",1.563333333,NA
+"W8","M5",2016,"f",2013,NA,1.10652126,4,0.01949791,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.246666667,NA
+"W9","M5",2016,"f",1980,NA,1.224876578,3,0.008979794,"J strait",36,"Pregnant","Pregnant","alive",4,5,1,3,"yes","yes","female reproductive","reproductive female",1.246666667,NA
+"W10","M5",2016,"m",1996,2023,1.220210076,6,0.009499647,"J strait",20,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.246666667,NA
+"W11","M5",2016,"f",2004,NA,1.179564945,10,0.014601185,"J strait",12,"Pregnant - early stages","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.246666667,NA
+"W69","M5",2016,"f",2008,NA,1.154352773,3,0.005998821,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.246666667,"alive"
+"W12","M6",2016,"m",2014,NA,1.111881738,4,0.020229557,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.246666667,NA
+"W63","M6",2016,"f",1984,NA,1.167026886,11,0.009421719,"J strait",32,"Pregnant","Pregnant","alive",3,3,2,1,"yes","no","female reproductive","reproductive female",1.246666667,NA
+"W13","M6",2016,"f",1999,NA,1.107104656,3,0.010564149,"J strait",17,"Nursing 3","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.246666667,NA
+"W14","M6",2016,"m",2005,NA,1.150970427,5,0.012426437,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.246666667,NA
+"W15","M6",2016,"m",2011,NA,1.146912221,6,0.011304082,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.246666667,NA
+"W70","M7",2016,"f",2012,NA,1.11964487,1,NA,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.246666667,NA
+"W16","M7",2016,"m",2013,NA,1.114705684,3,0.013238532,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.246666667,NA
+"W17","M7",2016,"f",1989,NA,1.172957643,4,0.021162392,"J strait",27,"Pregnant - early stages","Not pregnant","alive",3,5,1,2,"yes","no","female reproductive","reproductive female",1.246666667,NA
+"W64","M7",2016,"f",2002,NA,1.15544858,3,0.00676704,"J strait",14,"Nursing 1","Nursing","alive",2,2,0,2,"no","no","female reproductive","reproductive female",1.246666667,NA
+"W18","M7",2016,"f",2006,NA,1.192577182,5,0.003459026,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.246666667,NA
+"W37","M14",2016,"m",2004,NA,1.120620213,3,0.01152829,"J strait",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.246666667,NA
+"W68","M14",2016,"f",2009,NA,1.130522382,2,0.020622651,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.246666667,"alive"
+"W39","M14",2016,"f",2014,NA,1.147246846,1,NA,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.246666667,NA
+"W40","M14",2016,"f",1969,2019,1.142173289,8,0.019359904,"J strait",47,"Nursing 1","Nursing","alive",4,8,2,1,"yes","yes","female post reproductive","post reproductive female",1.246666667,"dead"
+"W41","M14",2016,"f",1986,NA,1.14809303,3,0.005994046,"J strait",30,"Nursing 3","Not pregnant","alive",3,3,1,2,"yes","yes","female reproductive","reproductive female",1.246666667,NA
+"W42","M14",2016,"m",2002,NA,1.123937818,4,0.012179007,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.246666667,NA
+"W44","M15",2016,"f",1974,NA,1.163530325,3,0.013720791,"J strait",42,"Nursing 1","Nursing","alive",3,4,2,0,"yes","yes","female post reproductive","post reproductive female",1.246666667,NA
+"W46","M15",2016,"m",1997,NA,1.224189223,3,0.007989477,"J strait",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.246666667,NA
+"W51","M17",2016,"f",1980,NA,1.201210295,6,0.012765668,"J strait",36,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female reproductive","reproductive female",1.246666667,NA
+"W52","M17",2016,"m",1997,NA,1.208679068,1,NA,"J strait",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.246666667,NA
+"W54","M18",2016,"m",2007,NA,1.17361597,4,0.00584878,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.246666667,NA
+"W55","M18",2016,"u",2014,NA,1.121738165,4,0.014906516,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.246666667,NA
+"W56","M18",2016,"f",1990,NA,1.186219727,5,0.011007619,"J strait",26,"Nursing 3","Not pregnant","alive",2,3,1,0,"yes","no","female reproductive","reproductive female",1.246666667,NA
+"W71","M1",2017,"f",2014,NA,1.195493684,4,0.002460009,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,NA
+"W1","M1",2017,"f",1981,NA,1.257709161,9,0.010581191,"J strait",36,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female reproductive","reproductive female",1.03,NA
+"W2","M1",2017,"m",1992,NA,1.226775522,6,0.010566382,"J strait",25,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W3","M1",2017,"f",1997,NA,1.167868617,11,0.015666147,"J strait",20,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",1.03,NA
+"W4","M1",2017,"m",2009,NA,1.116870076,10,0.021949477,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W5","M2",2017,"m",1994,NA,1.24664488,4,0.020486586,"J strait",23,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W72","M2",2017,"f",2005,NA,1.150228229,5,0.007900749,"J strait",12,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W12","M6",2017,"m",2014,NA,1.108124517,6,0.007907864,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.03,NA
+"W73","M6",2017,"f",2017,2018,1.178549124,10,0.01354301,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,"alive"
+"W63","M6",2017,"f",1984,NA,1.148874795,22,0.008916782,"J strait",33,"Nursing 1","Nursing","alive",4,4,2,2,"yes","yes","female reproductive","reproductive female",1.03,NA
+"W13","M6",2017,"f",1999,NA,1.119147941,8,0.012168947,"J strait",18,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.03,NA
+"W14","M6",2017,"m",2005,NA,1.177217087,11,0.014602593,"J strait",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W15","M6",2017,"m",2011,NA,1.149755984,10,0.016103216,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W70","M7",2017,"f",2012,NA,1.160565955,8,0.008422183,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,NA
+"W16","M7",2017,"m",2013,NA,1.114145303,5,0.034277614,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W74","M7",2017,"f",2016,NA,1.136884174,11,0.014112243,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,NA
+"W17","M7",2017,"f",1989,NA,1.195460122,14,0.012796003,"J strait",28,"Pregnant","Pregnant","alive",3,5,1,2,"yes","no","female reproductive","reproductive female",1.03,NA
+"W64","M7",2017,"f",2002,NA,1.158431595,5,0.014785382,"J strait",15,"Nursing 2","Nursing","alive",2,2,0,2,"no","no","female reproductive","reproductive female",1.03,NA
+"W18","M7",2017,"f",2006,NA,1.210130232,13,0.018768042,"J strait",11,"Pregnant - early stages","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,NA
+"W20","M9",2017,"f",1972,NA,1.199303282,14,0.016360019,"J strait",45,"Not pregnant","Not pregnant","alive",4,6,0,3,"no","no","female post reproductive","post reproductive female",1.03,NA
+"W21","M9",2017,"f",1985,NA,1.210306617,10,0.014312637,"J strait",32,"Pregnant - early stages","Not pregnant","alive",3,4,2,0,"yes","yes","female reproductive","reproductive female",1.03,NA
+"W22","M9",2017,"f",1998,NA,1.16207718,16,0.007164334,"J strait",19,"Nursing 3","Not pregnant","alive",2,2,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W75","M9",2017,"f",2004,NA,1.157713552,13,0.015138859,"J strait",13,"Not pregnant","Not pregnant","alive",1,1,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W24","M9",2017,"m",2007,NA,1.111014158,9,0.005641078,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W25","M9",2017,"u",2009,NA,1.139036057,13,0.020777319,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W26","M9",2017,"u",2009,NA,1.12757554,24,0.017026472,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W76","M9",2017,"u",2013,2021,1.099126911,10,0.014475987,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,"alive"
+"W27","M9",2017,"u",2014,NA,1.124060396,6,0.014496899,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W77","M9",2017,"u",2015,NA,1.143877441,12,0.010113562,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W78","M23",2017,"m",1986,NA,1.158135983,19,0.011808121,"J strait",31,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W79","M23",2017,"f",1993,NA,1.250852428,3,0.013034003,"J strait",24,"Not pregnant","Not pregnant","alive",0,2,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W80","M21",2017,"u",2012,NA,1.171490102,2,0.005034916,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W81","M21",2017,"f",1963,NA,1.229649306,1,NA,"J strait",54,"Not Applicable","Not pregnant","alive",2,6,0,2,"no","no","female post reproductive","post reproductive female",1.03,NA
+"W65","M21",2017,"f",2003,NA,1.20654875,4,0.020606957,"J strait",14,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W82","M21",2017,"m",2005,NA,1.112276223,3,0.005934265,"J strait",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W83","M21",2017,"f",2005,NA,1.135324424,1,NA,"J strait",12,"Nursing 1","Nursing","alive",1,1,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W84","M21",2017,"f",2007,NA,1.146981422,2,0.009282667,"J strait",10,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,NA
+"W85","M21",2017,"f",2008,NA,1.138471575,4,0.006641949,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,"dead"
+"W86","M21",2017,"u",2011,NA,1.125533505,2,0.000555384,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W87","M22",2017,"m",2012,NA,1.105508864,11,0.014840468,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W88","M22",2017,"u",2016,2019,1.1728594,3,0.00310579,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,"alive"
+"W89","M22",2017,"f",2017,NA,1.172035554,4,0.0253232,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,NA
+"W66","M22",2017,"f",1987,2019,1.237599516,4,0.026384396,"J strait",30,"Nursing 2","Nursing","alive",2,3,1,0,"yes","no","female reproductive","reproductive female",1.03,"alive"
+"W90","M22",2017,"f",1996,NA,1.178628449,5,0.010261571,"J strait",21,"Nursing 1","Nursing","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",1.03,NA
+"W91","M22",2017,"f",2000,NA,1.190860383,4,0.015784907,"J strait",17,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.03,NA
+"W92","M22",2017,"f",2005,NA,1.164446826,5,0.033100787,"J strait",12,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W93","M22",2017,"m",2008,NA,1.172087953,2,0.000398116,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W94","M22",2017,"m",2011,NA,1.136168969,5,0.009961116,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W67","M22",2017,"m",2012,NA,1.113243129,3,0.007641086,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W95","M24",2017,"u",2012,NA,1.083312223,7,0.00651549,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W96","M24",2017,"u",2012,NA,1.110797455,6,0.007302739,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W97","M24",2017,"u",2013,NA,1.060323554,4,0.013322367,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W98","M24",2017,"u",2014,NA,1.117716793,3,0.012075614,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W99","M24",2017,"u",2014,NA,1.08175143,1,NA,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W100","M24",2017,"u",2015,NA,1.132816186,4,0.011881928,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W101","M24",2017,"f",2017,NA,1.101887649,7,0.012572454,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,NA
+"W102","M24",2017,"f",1972,NA,1.239895563,5,0.015390663,"J strait",45,"Not pregnant","Not pregnant","alive",5,5,2,3,"yes","yes","female post reproductive","post reproductive female",1.03,NA
+"W103","M24",2017,"f",1979,NA,1.184724397,17,0.010691017,"J strait",38,"Nursing 1","Nursing","alive",4,6,0,3,"no","no","female reproductive","reproductive female",1.03,NA
+"W104","M24",2017,"f",1957,2020,1.219624782,7,0.022377893,"J strait",60,"Not Applicable","Not pregnant","alive",3,5,1,2,"yes","yes","female post reproductive","post reproductive female",1.03,"dead"
+"W105","M24",2017,"m",1982,NA,1.213011054,7,0.0076489,"J strait",35,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W106","M24",2017,"f",1984,NA,1.182360527,5,0.008794921,"J strait",33,"Not pregnant","Not pregnant","alive",3,3,0,2,"no","no","female reproductive","reproductive female",1.03,NA
+"W107","M24",2017,"f",1990,NA,1.142203389,8,0.011833903,"J strait",27,"Pregnant","Pregnant","alive",2,2,0,1,"no","no","female reproductive","reproductive female",1.03,NA
+"W108","M24",2017,"f",1992,NA,1.224940085,5,0.02068325,"J strait",25,"Not pregnant","Not pregnant","alive",2,2,1,0,"yes","no","female reproductive","reproductive female",1.03,NA
+"W109","M24",2017,"f",1999,NA,1.188813701,3,0.018987501,"J strait",18,"Nursing 3","Not pregnant","alive",2,2,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W110","M24",2017,"m",2004,NA,1.173906931,4,0.020829499,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W111","M24",2017,"f",2006,NA,1.126987609,4,0.031134097,"J strait",11,"Pregnant - early stages","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,NA
+"W112","M24",2017,"m",2006,NA,1.117378199,9,0.013680699,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W113","M24",2017,"f",2007,NA,1.129333948,3,0.017899953,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,NA
+"W114","M24",2017,"f",2008,NA,1.120215601,7,0.006304842,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,"alive"
+"W115","M24",2017,"m",2009,NA,1.119001828,5,0.020407943,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W116","M24",2017,"u",2010,NA,1.143793356,3,0.007025258,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W117","M25",2017,"u",2012,NA,1.105249076,3,0.007115893,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W118","M25",2017,"f",1981,NA,1.237336015,4,0.011024778,"J strait",36,"Not pregnant","Not pregnant","alive",3,4,1,1,"yes","no","female reproductive","reproductive female",1.03,NA
+"W119","M25",2017,"f",1994,NA,1.206455147,7,0.008523991,"J strait",23,"Not pregnant","Not pregnant","alive",1,2,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W120","M25",2017,"m",2007,NA,1.123233471,4,0.011116009,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W121","M25",2017,"u",2011,NA,1.098681461,4,0.018626966,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W122","M26",2017,"u",2017,NA,1.142897773,2,0.006976153,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W123","M26",2017,"f",1999,NA,1.205107133,3,0.007234036,"J strait",18,"Nursing 1","Nursing","alive",1,1,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W124","M13",2017,"m",2005,NA,1.157311271,12,0.01449886,"J strait",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W125","M13",2017,"f",1974,NA,1.210601823,4,0.015679594,"J strait",43,"Not pregnant","Not pregnant","alive",1,2,1,0,"yes","yes","female post reproductive","post reproductive female",1.03,NA
+"W126","M13",2017,"m",1983,2020,1.214486964,3,0.011435923,"J strait",34,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,"dead"
+"W37","M14",2017,"m",2004,NA,1.127820078,19,0.011379791,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W38","M14",2017,"m",2009,NA,1.09790216,3,0.01193144,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,"alive"
+"W68","M14",2017,"f",2009,NA,1.124680945,12,0.012865126,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,"alive"
+"W39","M14",2017,"f",2014,NA,1.140896153,6,0.007739535,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,NA
+"W127","M14",2017,"u",2016,2019,1.118330293,4,0.034602479,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,"alive"
+"W40","M14",2017,"f",1969,2019,1.170894506,6,0.020731433,"J strait",48,"Nursing 2","Nursing","alive",4,8,2,1,"yes","yes","female post reproductive","post reproductive female",1.03,"dead"
+"W41","M14",2017,"f",1986,NA,1.165274528,10,0.009757826,"J strait",31,"Not pregnant","Not pregnant","alive",3,3,1,2,"yes","yes","female reproductive","reproductive female",1.03,NA
+"W42","M14",2017,"m",2002,NA,1.150376938,4,0.017291383,"J strait",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W43","M15",2017,"m",2004,NA,1.126056055,16,0.011548531,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.03,NA
+"W44","M15",2017,"f",1974,NA,1.189129899,22,0.011300138,"J strait",43,"Not pregnant","Not pregnant","alive",2,4,2,0,"yes","yes","female post reproductive","post reproductive female",1.03,NA
+"W46","M15",2017,"m",1997,NA,1.218221312,22,0.013670662,"J strait",20,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W128","M27",2017,"f",2006,NA,1.20937238,3,0.00413012,"J strait",11,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.03,NA
+"W129","M27",2017,"f",1971,2023,1.222406857,4,0.007735601,"J strait",46,"Pregnant - early stages","Not pregnant","alive",3,5,2,1,"yes","yes","female post reproductive","post reproductive female",1.03,NA
+"W130","M27",2017,"m",1985,NA,1.242199982,3,0.011042076,"J strait",32,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W131","M27",2017,"m",1988,2023,1.27021372,1,NA,"J strait",29,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W47","M16",2017,"f",2002,NA,1.12900104,12,0.011518829,"J strait",15,"Not pregnant","Not pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",1.03,NA
+"W132","M16",2017,"m",2007,NA,1.115529689,7,0.010527745,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W48","M16",2017,"u",2012,NA,1.112947692,9,0.00736988,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.03,NA
+"W49","M16",2017,"f",2014,NA,1.098823608,7,0.013358237,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.03,NA
+"W133","M16",2017,"f",1974,NA,1.195292708,5,0.01171106,"J strait",43,"Not pregnant","Not pregnant","alive",4,7,2,1,"yes","yes","female post reproductive","post reproductive female",1.03,NA
+"W50","M17",2017,"f",2003,NA,1.166161068,10,0.020772423,"J strait",14,"Pregnant - early stages","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.03,NA
+"W51","M17",2017,"f",1980,NA,1.203512574,12,0.015812253,"J strait",37,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female reproductive","reproductive female",1.03,NA
+"W52","M17",2017,"m",1997,NA,1.147090735,16,0.013103924,"J strait",20,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.03,NA
+"W54","M18",2017,"m",2007,NA,1.175886894,19,0.019819713,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,NA
+"W55","M18",2017,"u",2014,NA,1.112556823,13,0.012485902,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.03,NA
+"W56","M18",2017,"f",1990,NA,1.185841852,27,0.014762292,"J strait",27,"Not pregnant","Not pregnant","alive",2,3,1,0,"yes","no","female reproductive","reproductive female",1.03,NA
+"W134","M28",2017,"m",2012,NA,1.105759721,23,0.013204952,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.03,"alive"
+"W135","M28",2017,"f",1991,NA,1.189822752,13,0.006978137,"J strait",26,"Not pregnant","Not pregnant","alive",1,2,1,0,"yes","no","female reproductive","reproductive female",1.03,NA
+"W1","M1",2018,"f",1981,NA,1.257585984,9,0.01006392,"J strait",37,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female reproductive","reproductive female",0.8,NA
+"W2","M1",2018,"m",1992,NA,1.235589686,5,0.009878129,"J strait",26,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.8,NA
+"W3","M1",2018,"f",1997,NA,1.159956386,3,0.00967469,"J strait",21,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",0.8,NA
+"W4","M1",2018,"m",2009,NA,1.110165314,3,0.019011591,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W136","M29",2018,"m",2015,NA,1.120160915,1,NA,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",0.8,NA
+"W137","M29",2018,"m",2008,NA,1.116270055,1,NA,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W5","M2",2018,"m",1994,NA,1.247766155,7,0.013998609,"J strait",24,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.8,NA
+"W72","M2",2018,"f",2005,NA,1.171092155,1,NA,"J strait",13,"Pregnant - early stages","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",0.8,NA
+"W138","M19",2018,"m",2012,NA,1.102616872,2,0.005938672,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W139","M19",2018,"m",2013,NA,1.148985476,2,0.018032588,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W140","M19",2018,"u",2016,NA,1.142701479,1,NA,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.8,NA
+"W141","M19",2018,"f",1975,NA,1.169312183,1,NA,"J strait",43,"Not pregnant","Not pregnant","alive",5,6,2,3,"yes","yes","female post reproductive","post reproductive female",0.8,NA
+"W58","M19",2018,"f",1994,NA,1.166025597,8,0.020912617,"J strait",24,"Not pregnant","Not pregnant","alive",3,3,3,0,"yes","yes","female reproductive","reproductive female",0.8,NA
+"W59","M19",2018,"f",1997,NA,1.135531996,3,0.007272027,"J strait",21,"Nursing 3","Not pregnant","alive",2,3,1,0,"yes","no","female reproductive","reproductive female",0.8,NA
+"W60","M19",2018,"m",2004,NA,1.1686189,5,0.004304796,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W61","M19",2018,"m",2005,NA,1.150754367,5,0.006847312,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W142","M19",2018,"m",2009,NA,1.112903637,8,0.010771289,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W143","M19",2018,"f",2010,NA,1.124336631,5,0.006825252,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.8,NA
+"W8","M5",2018,"f",2013,NA,1.118080601,1,NA,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.8,NA
+"W9","M5",2018,"f",1980,NA,1.186149216,1,NA,"J strait",38,"Nursing 2","Nursing","alive",5,6,1,4,"yes","yes","female reproductive","reproductive female",0.8,NA
+"W11","M5",2018,"f",2004,NA,1.1899976,1,NA,"J strait",14,"Nursing 1","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.8,NA
+"W69","M5",2018,"f",2008,NA,1.129117173,1,NA,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.8,"alive"
+"W12","M6",2018,"m",2014,NA,1.103879861,5,0.01186436,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W63","M6",2018,"f",1984,NA,1.153104985,8,0.019502814,"J strait",34,"Nursing 2","Nursing","alive",3,4,2,1,"yes","yes","female reproductive","reproductive female",0.8,NA
+"W13","M6",2018,"f",1999,NA,1.106046832,3,0.006375804,"J strait",19,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.8,NA
+"W14","M6",2018,"m",2005,NA,1.17789868,5,0.018289349,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W15","M6",2018,"m",2011,NA,1.134283019,5,0.028040949,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W70","M7",2018,"f",2012,NA,1.154096204,1,NA,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.8,NA
+"W16","M7",2018,"m",2013,NA,1.115773624,2,0.003927456,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W74","M7",2018,"f",2016,NA,1.129414569,6,0.013598281,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.8,NA
+"W144","M7",2018,"f",2018,NA,1.168082843,5,0.018042682,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.8,NA
+"W17","M7",2018,"f",1989,NA,1.158892263,4,0.019699616,"J strait",29,"Nursing 1","Nursing","alive",4,6,1,3,"yes","no","female reproductive","reproductive female",0.8,NA
+"W18","M7",2018,"f",2006,NA,1.224070636,4,0.025257792,"J strait",12,"Pregnant","Pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",0.8,NA
+"W145","M12",2018,"u",2009,NA,1.144675589,3,0.008977442,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.8,NA
+"W146","M30",2018,"m",2014,NA,1.091655215,1,NA,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,NA
+"W30","M11",2018,"f",1984,NA,1.151031702,5,0.030137521,"J strait",34,"Nursing 1","Nursing","alive",4,4,0,2,"no","no","female reproductive","reproductive female",0.8,NA
+"W31","M11",2018,"f",1998,NA,1.135798218,1,NA,"J strait",20,"Not pregnant","Not pregnant","alive",1,1,0,0,"no","no","female reproductive","reproductive female",0.8,NA
+"W32","M11",2018,"f",2005,NA,1.183855348,4,0.013677226,"J strait",13,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",0.8,NA
+"W33","M11",2018,"u",2012,NA,1.086676634,5,0.013851124,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.8,NA
+"W147","M11",2018,"u",2018,NA,1.155748849,3,0.016545426,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.8,NA
+"W124","M13",2018,"m",2005,NA,1.157156028,5,0.003706604,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W125","M13",2018,"f",1974,NA,1.214040011,2,0.0124369,"J strait",44,"Not pregnant","Not pregnant","alive",1,2,1,0,"yes","yes","female post reproductive","post reproductive female",0.8,NA
+"W37","M14",2018,"m",2004,NA,1.13116944,5,0.019093394,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W38","M14",2018,"m",2009,NA,1.103261533,5,0.019531995,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.8,"dead"
+"W68","M14",2018,"f",2009,NA,1.117685873,4,0.009742133,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.8,"alive"
+"W41","M14",2018,"f",1986,NA,1.140573224,6,0.009605225,"J strait",32,"Pregnant - early stages","Not pregnant","alive",3,3,1,2,"yes","yes","female reproductive","reproductive female",0.8,NA
+"W42","M14",2018,"m",2002,NA,1.137851938,5,0.010202567,"J strait",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W43","M15",2018,"m",2004,NA,1.13366742,7,0.007905795,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.8,NA
+"W50","M17",2018,"f",2003,NA,1.217574536,1,NA,"J strait",15,"Pregnant","Pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",0.8,NA
+"W51","M17",2018,"f",1980,NA,1.206235797,2,0.016613263,"J strait",38,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female reproductive","reproductive female",0.8,NA
+"W52","M17",2018,"m",1997,NA,1.18362914,1,NA,"J strait",21,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.8,NA
+"W1","M1",2019,"f",1981,NA,1.25344713,6,0.009823916,"J strait CC",38,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W2","M1",2019,"m",1992,NA,1.209124544,22,0.026158827,"J strait CC",27,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W3","M1",2019,"f",1997,NA,1.171276635,4,0.006381522,"J strait CC",22,"Pregnant - early stages","Not pregnant","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W4","M1",2019,"m",2009,NA,1.097909698,7,0.022289015,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W148","M29",2019,"f",1995,NA,1.180731076,3,0.006763767,"J strait CC",24,"Pregnant","Pregnant","alive",2,2,2,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W137","M29",2019,"m",2008,NA,1.055821637,2,0.000846566,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W5","M2",2019,"m",1994,NA,1.265857583,11,0.018013227,"J strait CC",25,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W72","M2",2019,"f",2005,NA,1.191537144,12,0.028034884,"J strait CC",14,"Pregnant","Pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W138","M19",2019,"m",2012,NA,1.139389685,6,0.009426557,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W139","M19",2019,"m",2013,NA,1.122797554,6,0.023875751,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W140","M19",2019,"u",2016,NA,1.138846328,5,0.025048831,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.853333333,NA
+"W141","M19",2019,"f",1975,NA,1.16231867,7,0.022801428,"J strait CC",44,"Not pregnant","Not pregnant","alive",5,6,2,3,"yes","yes","female post reproductive","post reproductive female",0.853333333,NA
+"W57","M19",2019,"m",1990,NA,1.214269743,8,0.019475106,"J strait CC",29,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W58","M19",2019,"f",1994,NA,1.174265722,9,0.027983406,"J strait CC",25,"Not pregnant","Not pregnant","alive",3,3,3,0,"yes","yes","female reproductive","reproductive female",0.853333333,NA
+"W59","M19",2019,"f",1997,NA,1.188561877,7,0.024573423,"J strait CC",22,"Pregnant","Pregnant","alive",2,3,1,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W60","M19",2019,"m",2004,NA,1.188707737,7,0.016135516,"J strait CC",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W61","M19",2019,"m",2005,NA,1.153825701,7,0.028831576,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W142","M19",2019,"m",2009,NA,1.118913247,8,0.025856112,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W143","M19",2019,"f",2010,NA,1.141542464,9,0.021643,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,NA
+"W8","M5",2019,"f",2013,NA,1.142483176,10,0.007979809,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,NA
+"W149","M5",2019,"f",2017,NA,1.120794897,8,0.008450755,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.853333333,NA
+"W150","M5",2019,"m",2018,NA,1.169661075,12,0.021066688,"J strait CC",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",0.853333333,NA
+"W9","M5",2019,"f",1980,NA,1.193495808,22,0.017116766,"J strait CC",39,"Nursing 3","Not pregnant","alive",5,6,1,4,"yes","yes","female reproductive","reproductive female",0.853333333,NA
+"W10","M5",2019,"m",1996,2023,1.229905799,23,0.022731132,"J strait CC",23,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W11","M5",2019,"f",2004,NA,1.169454093,9,0.012622239,"J strait CC",15,"Nursing 2","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W69","M5",2019,"f",2008,NA,1.139531887,15,0.025344588,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,"alive"
+"W12","M6",2019,"m",2014,NA,1.107454548,19,0.01748965,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W63","M6",2019,"f",1984,NA,1.174256447,37,0.019052349,"J strait CC",35,"Pregnant","Pregnant","alive",3,4,2,1,"yes","yes","female reproductive","reproductive female",0.853333333,NA
+"W13","M6",2019,"f",1999,NA,1.11377632,27,0.015314833,"J strait CC",20,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W14","M6",2019,"m",2005,NA,1.163800934,28,0.02002557,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W15","M6",2019,"m",2011,NA,1.13145718,41,0.023818319,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W70","M7",2019,"f",2012,NA,1.100321574,25,0.022651299,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,NA
+"W16","M7",2019,"m",2013,NA,1.123096379,10,0.018752,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W74","M7",2019,"f",2016,NA,1.099383294,18,0.019652463,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.853333333,NA
+"W144","M7",2019,"f",2018,NA,1.144317136,10,0.026810825,"J strait CC",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.853333333,NA
+"W151","M7",2019,"m",2019,NA,1.182121637,12,0.020340014,"J strait CC",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",0.853333333,NA
+"W17","M7",2019,"f",1989,NA,1.156469779,17,0.025094075,"J strait CC",30,"Nursing 2","Nursing","alive",4,6,1,3,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W64","M7",2019,"f",2002,NA,1.168796897,8,0.010296868,"J strait CC",17,"Pregnant - early stages","Not pregnant","alive",2,2,0,2,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W18","M7",2019,"f",2006,NA,1.181485597,14,0.022075384,"J strait CC",13,"Nursing 1","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W22","M31",2019,"f",1998,NA,1.186492572,8,0.0175588,"J strait CC",21,"Pregnant","Pregnant","alive",2,2,0,0,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W25","M31",2019,"u",2009,NA,1.119577993,7,0.014840631,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W77","M31",2019,"u",2015,NA,1.071510357,1,NA,"J strait CC",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W145","M12",2019,"u",2009,NA,1.130755032,1,NA,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W152","M30",2019,"f",1982,NA,1.250576548,8,0.017793634,"J strait CC",37,"Pregnant - early stages","Not pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W153","M30",2019,"f",1999,NA,1.235601801,4,0.010975465,"J strait CC",20,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W146","M30",2019,"m",2014,NA,1.094458679,9,0.012563594,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W31","M11",2019,"f",1998,NA,1.162629995,6,0.016050233,"J strait CC",21,"Not pregnant","Not pregnant","alive",0,1,0,0,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W34","M12",2019,"f",1972,NA,1.198925477,6,0.016982033,"J strait CC",47,"Not pregnant","Not pregnant","alive",0,1,0,0,"no","no","female post reproductive","post reproductive female",0.853333333,NA
+"W78","M23",2019,"m",1986,NA,1.161039794,2,0.009425424,"J strait CC",33,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W80","M21",2019,"u",2012,NA,1.163793489,1,NA,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W154","M21",2019,"u",2017,NA,1.100501374,2,0.010192597,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.853333333,NA
+"W155","M21",2019,"u",2019,NA,1.198084452,1,NA,"J strait CC",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.853333333,NA
+"W82","M21",2019,"m",2005,NA,1.13011248,6,0.011337191,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W85","M21",2019,"f",2008,NA,1.127088408,1,NA,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,"dead"
+"W86","M21",2019,"u",2011,NA,1.108660956,2,0.008550214,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W87","M22",2019,"m",2012,NA,1.110642208,16,0.019786217,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W89","M22",2019,"f",2017,NA,1.157401708,13,0.012179663,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.853333333,NA
+"W90","M22",2019,"f",1996,NA,1.188950047,10,0.019248317,"J strait CC",23,"Nursing 3","Not pregnant","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",0.853333333,NA
+"W92","M22",2019,"f",2005,NA,1.19930484,22,0.019006778,"J strait CC",14,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W93","M22",2019,"m",2008,NA,1.169889772,16,0.021838427,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W94","M22",2019,"m",2011,NA,1.133214608,17,0.022375883,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W67","M22",2019,"m",2012,NA,1.088650524,7,0.01012747,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,NA
+"W121","M25",2019,"u",2011,NA,1.104856136,1,NA,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W122","M26",2019,"u",2017,NA,1.130002616,1,NA,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.853333333,NA
+"W123","M26",2019,"f",1999,NA,1.193545133,1,NA,"J strait CC",20,"Nursing 3","Not pregnant","alive",1,1,0,0,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W37","M14",2019,"m",2004,NA,1.151280564,9,0.009023963,"J strait CC",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W38","M14",2019,"m",2009,NA,1.109186994,3,0.02348305,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.853333333,"dead"
+"W68","M14",2019,"f",2009,NA,1.145418753,4,0.020068268,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,"alive"
+"W39","M14",2019,"f",2014,NA,1.13820673,2,0.012392418,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,NA
+"W41","M14",2019,"f",1986,NA,1.150983128,2,0.000334244,"J strait CC",33,"Pregnant","Pregnant","alive",3,3,1,2,"yes","yes","female reproductive","reproductive female",0.853333333,NA
+"W42","M14",2019,"m",2002,NA,1.1680601,8,0.013072672,"J strait CC",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W43","M15",2019,"m",2004,NA,1.15298708,2,0.000525551,"J strait CC",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W44","M15",2019,"f",1974,NA,1.20387455,11,0.028907275,"J strait CC",45,"Not pregnant","Not pregnant","alive",2,4,2,0,"yes","yes","female post reproductive","post reproductive female",0.853333333,NA
+"W46","M15",2019,"m",1997,NA,1.195230074,10,0.025465598,"J strait CC",22,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W47","M16",2019,"f",2002,NA,1.148390242,11,0.012946959,"J strait CC",17,"Not pregnant","Not pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W132","M16",2019,"m",2007,NA,1.125443454,8,0.011706853,"J strait CC",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W48","M16",2019,"u",2012,NA,1.093636181,3,0.025011503,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W49","M16",2019,"f",2014,NA,1.093614259,9,0.017120108,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.853333333,NA
+"W133","M16",2019,"f",1974,NA,1.180187989,6,0.008009785,"J strait CC",45,"Not pregnant","Not pregnant","alive",3,7,1,1,"yes","yes","female post reproductive","post reproductive female",0.853333333,NA
+"W50","M17",2019,"f",2003,NA,1.170492972,46,0.017396993,"J strait CC",16,"Nursing 1","Nursing","alive",0,1,0,0,"no","no","female reproductive","reproductive female",0.853333333,NA
+"W51","M17",2019,"f",1980,NA,1.202145626,17,0.020580483,"J strait CC",39,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female reproductive","reproductive female",0.853333333,NA
+"W52","M17",2019,"m",1997,NA,1.196781723,22,0.020549981,"J strait CC",22,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W54","M18",2019,"m",2007,NA,1.185936945,2,0.009254603,"J strait CC",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.853333333,NA
+"W55","M18",2019,"u",2014,NA,1.091423379,16,0.017111898,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.853333333,NA
+"W56","M18",2019,"f",1990,NA,1.182468447,12,0.021398557,"J strait CC",29,"Pregnant","Pregnant","alive",2,3,1,0,"yes","yes","female reproductive","reproductive female",0.853333333,NA
+"W156","M32",2019,"f",1968,NA,1.176680358,4,0.017061576,"J strait CC",51,"Not Applicable","Not pregnant","alive",3,4,3,0,"yes","yes","female post reproductive","post reproductive female",0.853333333,NA
+"W157","M32",2019,"m",1987,NA,1.210763438,3,0.020709063,"J strait CC",32,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W158","M32",2019,"m",1999,NA,1.249791848,2,0.004347697,"J strait CC",20,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.853333333,NA
+"W71","M1",2020,"f",2014,NA,1.156280387,5,0.014220652,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.98,NA
+"W1","M1",2020,"f",1981,NA,1.247704569,7,0.00938204,"J strait",39,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female reproductive","reproductive female",0.98,NA
+"W2","M1",2020,"m",1992,NA,1.212241489,19,0.010514168,"J strait",28,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W3","M1",2020,"f",1997,NA,1.190846061,14,0.009197383,"J strait",23,"Pregnant","Pregnant","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",0.98,NA
+"W4","M1",2020,"m",2009,NA,1.132247223,2,0.003507332,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.98,NA
+"W159","M2",2020,"m",2019,NA,1.114098473,2,0.016685399,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",0.98,NA
+"W5","M2",2020,"m",1994,NA,1.254344419,10,0.01067676,"J strait",26,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W72","M2",2020,"f",2005,NA,1.136442198,8,0.013161918,"J strait",15,"Nursing 1","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.98,NA
+"W160","M20",2020,"u",2017,NA,1.0803281,2,0.003420491,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.98,NA
+"W161","M20",2020,"f",1974,NA,1.211566125,6,0.007577999,"J strait",46,"Not pregnant","Not pregnant","alive",5,6,1,3,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W162","M20",2020,"m",2003,NA,1.179616617,3,0.020938284,"J strait",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W163","M20",2020,"f",2008,NA,1.167871744,3,0.006961913,"J strait",12,"Pregnant","Pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",0.98,NA
+"W12","M6",2020,"m",2014,NA,1.099622261,9,0.009215386,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.98,NA
+"W164","M6",2020,"f",2020,NA,1.186886992,4,0.00812278,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.98,NA
+"W63","M6",2020,"f",1984,NA,1.130180515,12,0.013725028,"J strait",36,"Nursing 1","Nursing","alive",4,5,2,2,"yes","yes","female reproductive","reproductive female",0.98,NA
+"W13","M6",2020,"f",1999,NA,1.128707001,13,0.008179368,"J strait",21,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.98,NA
+"W14","M6",2020,"m",2005,NA,1.149685849,2,0.035467396,"J strait",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W15","M6",2020,"m",2011,NA,1.134119729,12,0.019190972,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.98,NA
+"W74","M7",2020,"f",2016,NA,1.111799503,1,NA,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.98,NA
+"W144","M7",2020,"f",2018,NA,1.121819195,3,0.01561749,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.98,NA
+"W151","M7",2020,"m",2019,NA,1.151371779,6,0.01887316,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",0.98,NA
+"W17","M7",2020,"f",1989,NA,1.170510136,7,0.016790149,"J strait",31,"Nursing 3","Not pregnant","alive",4,6,1,3,"yes","no","female reproductive","reproductive female",0.98,NA
+"W64","M7",2020,"f",2002,NA,1.193464218,7,0.006960341,"J strait",18,"Pregnant","Pregnant","alive",2,2,0,2,"no","no","female reproductive","reproductive female",0.98,NA
+"W18","M7",2020,"f",2006,NA,1.172811913,4,0.017474351,"J strait",14,"Nursing 2","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.98,NA
+"W165","M33",2020,"f",1990,2023,1.16084018,3,0.008439599,"J strait",30,"Not pregnant","Not pregnant","alive",0,2,0,0,"no","no","female reproductive","reproductive female",0.98,NA
+"W166","M34",2020,"f",2017,NA,1.008202536,1,NA,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.98,NA
+"W167","M34",2020,"f",2000,NA,1.150247923,2,0.00294203,"J strait",20,"Not pregnant","Not pregnant","alive",2,2,0,2,"no","no","female reproductive","reproductive female",0.98,NA
+"W21","M35",2020,"f",1985,NA,1.197865975,10,0.011511426,"J strait",35,"Nursing 2","Nursing","alive",3,4,1,0,"yes","yes","female reproductive","reproductive female",0.98,NA
+"W24","M35",2020,"m",2007,NA,1.099102689,6,0.006109491,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W168","M35",2020,"u",2019,NA,1.134916575,1,NA,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.98,NA
+"W169","M36",2020,"m",1985,NA,1.287188428,1,NA,"J strait",35,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W170","M36",2020,"m",1989,NA,1.205806988,13,0.029179594,"J strait",31,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W171","M36",2020,"m",1997,NA,1.257028911,2,0.009455377,"J strait",23,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W172","M36",2020,"m",2006,NA,1.166576457,3,0.018189307,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W145","M12",2020,"u",2009,NA,1.16098526,5,0.016147167,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.98,NA
+"W173","M36",2020,"u",2013,NA,1.13925881,4,0.012348934,"J strait",7,"Not Applicable","Not pregnant","alive",1,1,0,1,"no","no","unknown juvenile","juvenile",0.98,NA
+"W174","M36",2020,"f",1975,NA,1.193360632,3,0.00496333,"J strait",45,"Not pregnant","Not pregnant","alive",3,6,2,0,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W175","M10",2020,"f",1975,NA,1.207194802,3,0.006107785,"J strait",45,"Not pregnant","Not pregnant","alive",3,5,1,2,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W28","M10",2020,"f",1990,NA,1.207326988,5,0.008811678,"J strait",30,"Pregnant","Pregnant","alive",3,3,1,0,"yes","yes","female reproductive","reproductive female",0.98,NA
+"W29","M10",2020,"m",2005,NA,1.138811053,4,0.007383673,"J strait",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W176","M10",2020,"m",2007,NA,1.152179093,5,0.012376925,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W177","M10",2020,"u",2010,NA,1.122715578,6,0.032173514,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.98,NA
+"W178","M10",2020,"f",2013,NA,1.110449524,3,0.021760192,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.98,NA
+"W179","M10",2020,"u",2015,NA,1.098016881,7,0.005901243,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.98,NA
+"W152","M30",2020,"f",1982,NA,1.264799076,7,0.017906907,"J strait",38,"Pregnant","Pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",0.98,NA
+"W153","M30",2020,"f",1999,NA,1.224485955,4,0.005551018,"J strait",21,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",0.98,NA
+"W146","M30",2020,"m",2014,NA,1.111373993,3,0.013489375,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",0.98,NA
+"W31","M11",2020,"f",1998,NA,1.156961344,4,0.012581674,"J strait",22,"Not pregnant","Not pregnant","alive",0,1,0,0,"no","no","female reproductive","reproductive female",0.98,NA
+"W34","M12",2020,"f",1972,NA,1.178320635,6,0.014441568,"J strait",48,"Not Applicable","Not pregnant","alive",0,1,0,0,"no","no","female post reproductive","post reproductive female",0.98,NA
+"W124","M37",2020,"m",2005,NA,1.149919362,12,0.017520253,"J strait",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W125","M37",2020,"f",1974,NA,1.21521431,12,0.010281422,"J strait",46,"Not pregnant","Not pregnant","alive",1,2,1,0,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W37","M14",2020,"m",2004,NA,1.167354011,32,0.01351445,"J strait",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W68","M14",2020,"f",2009,NA,1.118912086,18,0.0127111,"J strait",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.98,"alive"
+"W39","M14",2020,"f",2014,NA,1.146718787,15,0.008872843,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",0.98,NA
+"W180","M14",2020,"f",2020,NA,1.150312458,3,0.008097994,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.98,NA
+"W41","M14",2020,"f",1986,NA,1.137881304,26,0.010185814,"J strait",34,"Nursing 1","Nursing","alive",4,4,1,3,"yes","yes","female reproductive","reproductive female",0.98,NA
+"W42","M14",2020,"m",2002,NA,1.165998392,8,0.015561749,"J strait",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W43","M15",2020,"m",2004,NA,1.13640285,2,0.02041519,"J strait",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W44","M15",2020,"f",1974,NA,1.175978133,1,NA,"J strait",46,"Not pregnant","Not pregnant","alive",2,4,2,0,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W50","M17",2020,"f",2003,NA,1.195178626,4,0.017001301,"J strait",17,"Pregnant - early stages","Not pregnant","alive",0,1,0,0,"no","no","female reproductive","reproductive female",0.98,NA
+"W51","M17",2020,"f",1980,NA,1.184522492,6,0.016471921,"J strait",40,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W52","M17",2020,"m",1997,NA,1.188161962,4,0.015942801,"J strait",23,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W54","M18",2020,"m",2007,NA,1.221623691,6,0.014566971,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W55","M18",2020,"u",2014,NA,1.108039218,2,0.000693795,"J strait",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.98,NA
+"W181","M18",2020,"f",2020,NA,1.11511246,6,0.007543263,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",0.98,NA
+"W56","M18",2020,"f",1990,NA,1.189869186,2,0.024804937,"J strait",30,"Nursing 1","Nursing","alive",3,4,1,1,"yes","yes","female reproductive","reproductive female",0.98,NA
+"W182","M38",2020,"f",1979,NA,1.199010475,2,0.013956941,"J strait",41,"Not pregnant","Not pregnant","alive",2,2,0,1,"no","no","female post reproductive","post reproductive female",0.98,NA
+"W183","M38",2020,"f",2005,NA,1.154543681,2,0.002222915,"J strait",15,"Nursing 2","Nursing","alive",1,1,0,0,"no","no","female reproductive","reproductive female",0.98,NA
+"W184","M38",2020,"u",2011,NA,1.108100537,4,0.01210148,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",0.98,NA
+"W185","M38",2020,"u",2019,NA,1.11800156,4,0.006699925,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",0.98,NA
+"W156","M32",2020,"f",1968,NA,1.184066656,3,0.022227914,"J strait",52,"Not Applicable","Not pregnant","alive",3,4,3,0,"yes","yes","female post reproductive","post reproductive female",0.98,NA
+"W157","M32",2020,"m",1987,NA,1.195624413,4,0.011439528,"J strait",33,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W158","M32",2020,"m",1999,NA,1.229717703,4,0.014477114,"J strait",21,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",0.98,NA
+"W186","M32",2020,"m",2004,NA,1.176514987,3,0.021048473,"J strait",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",0.98,NA
+"W71","M1",2021,"f",2014,NA,1.150386869,3,0.004466828,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W187","M1",2021,"m",2021,NA,1.156818291,5,0.01493945,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.056666667,NA
+"W1","M1",2021,"f",1981,NA,1.258720669,10,0.00745113,"J strait",40,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female post reproductive","post reproductive female",1.056666667,NA
+"W2","M1",2021,"m",1992,NA,1.223273432,7,0.00481649,"J strait",29,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.056666667,NA
+"W3","M1",2021,"f",1997,NA,1.183276506,11,0.006127518,"J strait",24,"Nursing 1","Nursing","alive",3,3,2,1,"yes","yes","female reproductive","reproductive female",1.056666667,NA
+"W4","M1",2021,"m",2009,NA,1.128107789,7,0.012364624,"J strait",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.056666667,NA
+"W159","M2",2021,"m",2019,NA,1.135166876,7,0.010865938,"J strait",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.056666667,NA
+"W5","M2",2021,"m",1994,NA,1.259173446,15,0.012865812,"J strait",27,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.056666667,NA
+"W72","M2",2021,"f",2005,NA,1.155034529,11,0.016970622,"J strait",16,"Nursing 2","Nursing","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.056666667,NA
+"W188","M20",2021,"u",2016,NA,1.142278958,5,0.013427551,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.056666667,NA
+"W160","M20",2021,"u",2017,NA,1.081568158,1,NA,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.056666667,NA
+"W189","M20",2021,"m",2020,NA,1.110100719,2,0.003736612,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.056666667,NA
+"W190","M20",2021,"u",2021,NA,1.167059295,2,0.000462665,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.056666667,NA
+"W191","M20",2021,"f",2021,NA,1.162720838,3,0.001713794,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.056666667,NA
+"W161","M20",2021,"f",1974,NA,1.193183813,2,0.008992935,"J strait",47,"Not pregnant","Not pregnant","alive",5,6,1,3,"yes","yes","female post reproductive","post reproductive female",1.056666667,NA
+"W192","M20",2021,"f",1987,NA,1.181196254,2,0.008521426,"J strait",34,"Nursing 2","Nursing","alive",3,4,2,0,"yes","yes","female reproductive","reproductive female",1.056666667,NA
+"W193","M20",2021,"f",1999,NA,1.125039276,10,0.014466647,"J strait",22,"Nursing 1","Nursing","alive",3,3,0,0,"no","no","female reproductive","reproductive female",1.056666667,NA
+"W162","M20",2021,"m",2003,NA,1.203893973,3,0.002655126,"J strait",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.056666667,NA
+"W62","M20",2021,"m",2004,NA,1.1686031,2,0.006077388,"J strait",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.056666667,NA
+"W163","M20",2021,"f",2008,NA,1.144224211,2,0.005515765,"J strait",13,"Nursing 1","Nursing","alive",1,1,0,1,"no","no","female reproductive","reproductive female",1.056666667,NA
+"W8","M5",2021,"f",2013,NA,1.136829249,10,0.01138561,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W149","M5",2021,"f",2017,NA,1.115863375,3,0.004018487,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W150","M5",2021,"m",2018,NA,1.128152091,4,0.007165725,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.056666667,NA
+"W10","M5",2021,"m",1996,2023,1.212668191,5,0.012005984,"J strait",25,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.056666667,NA
+"W11","M5",2021,"f",2004,NA,1.162170564,6,0.009574005,"J strait",17,"Not pregnant","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.056666667,NA
+"W69","M5",2021,"f",2008,NA,1.162786616,6,0.007175159,"J strait",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.056666667,"alive"
+"W12","M6",2021,"m",2014,NA,1.085879453,9,0.013300125,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.056666667,NA
+"W164","M6",2021,"f",2020,NA,1.143299596,6,0.011900959,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.056666667,NA
+"W63","M6",2021,"f",1984,NA,1.131819184,9,0.012696505,"J strait",37,"Nursing 2","Nursing","alive",4,5,2,2,"yes","yes","female reproductive","reproductive female",1.056666667,NA
+"W13","M6",2021,"f",1999,NA,1.125274947,7,0.013942122,"J strait",22,"Pregnant - early stages","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.056666667,NA
+"W14","M6",2021,"m",2005,NA,1.188077439,6,0.011808165,"J strait",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.056666667,NA
+"W15","M6",2021,"m",2011,NA,1.13711614,3,0.005400607,"J strait",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.056666667,NA
+"W70","M7",2021,"f",2012,NA,1.110472761,1,NA,"J strait",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W16","M7",2021,"m",2013,NA,1.114891652,1,NA,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.056666667,NA
+"W74","M7",2021,"f",2016,NA,1.105564617,3,0.008143091,"J strait",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W144","M7",2021,"f",2018,NA,1.096029552,1,NA,"J strait",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.056666667,NA
+"W194","M7",2021,"u",2021,NA,1.148758896,1,NA,"J strait",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.056666667,NA
+"W17","M7",2021,"f",1989,NA,1.163392243,2,0.010399849,"J strait",32,"Pregnant - early stages","Not pregnant","alive",4,6,1,3,"yes","no","female reproductive","reproductive female",1.056666667,NA
+"W18","M7",2021,"f",2006,NA,1.166610591,1,NA,"J strait",15,"Nursing 3","Not pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.056666667,NA
+"W165","M33",2021,"f",1990,2023,1.143297178,7,0.008513988,"J strait",31,"Not pregnant","Not pregnant","alive",0,2,0,0,"no","no","female reproductive","reproductive female",1.056666667,NA
+"W195","M34",2021,"f",2013,NA,1.100011373,6,0.00925544,"J strait",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W166","M34",2021,"f",2017,NA,1.140879009,7,0.012615245,"J strait",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.056666667,NA
+"W43","M15",2021,"m",2004,NA,1.143956215,13,0.012402107,"J strait",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.056666667,NA
+"W44","M15",2021,"f",1974,NA,1.221907708,13,0.008958219,"J strait",47,"Not pregnant","Not pregnant","alive",2,4,2,0,"yes","yes","female post reproductive","post reproductive female",1.056666667,NA
+"W46","M15",2021,"m",1997,NA,1.233535671,14,0.008323693,"J strait",24,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.056666667,NA
+"W50","M17",2021,"f",2003,NA,1.198299223,21,0.011478504,"J strait",18,"Pregnant","Pregnant","alive",0,1,0,0,"no","no","female reproductive","reproductive female",1.056666667,NA
+"W51","M17",2021,"f",1980,NA,1.210192162,26,0.010385965,"J strait",41,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female post reproductive","post reproductive female",1.056666667,NA
+"W52","M17",2021,"m",1997,NA,1.210889773,21,0.011748991,"J strait",24,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.056666667,NA
+"W54","M18",2021,"m",2007,NA,1.215646737,19,0.01486468,"J strait",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.056666667,NA
+"W55","M18",2021,"u",2014,NA,1.115075987,35,0.009383859,"J strait",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.056666667,NA
+"W181","M18",2021,"f",2020,NA,1.129122024,14,0.010210008,"J strait",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.056666667,NA
+"W56","M18",2021,"f",1990,NA,1.17657521,27,0.010268762,"J strait",31,"Nursing 2","Nursing","alive",3,4,1,1,"yes","yes","female reproductive","reproductive female",1.056666667,NA
+"W71","M1",2022,"f",2014,NA,1.175755608,4,0.003432468,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.036666667,NA
+"W187","M1",2022,"m",2021,NA,1.126480861,10,0.011844986,"J strait CC",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.036666667,NA
+"W1","M1",2022,"f",1981,NA,1.25993642,15,0.007148612,"J strait CC",41,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female post reproductive","post reproductive female",1.036666667,NA
+"W2","M1",2022,"m",1992,NA,1.213701521,13,0.008007032,"J strait CC",30,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.036666667,NA
+"W3","M1",2022,"f",1997,NA,1.169353323,11,0.007565847,"J strait CC",25,"Nursing 2","Nursing","alive",3,3,2,1,"yes","yes","female reproductive","reproductive female",1.036666667,NA
+"W4","M1",2022,"m",2009,NA,1.156678212,10,0.015987402,"J strait CC",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.036666667,NA
+"W196","M29",2022,"u",2020,NA,1.08108514,1,NA,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.036666667,NA
+"W148","M29",2022,"f",1995,NA,1.127976167,1,NA,"J strait CC",27,"Nursing 3","Not pregnant","alive",3,3,2,0,"yes","yes","female reproductive","reproductive female",1.036666667,NA
+"W197","M19",2022,"m",2022,NA,1.152698993,11,0.01436363,"J strait CC",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.036666667,"alive"
+"W58","M19",2022,"f",1994,NA,1.184238177,15,0.0117995,"J strait CC",28,"Nursing 1","Nursing","alive",4,4,4,0,"yes","yes","female reproductive","reproductive female",1.036666667,NA
+"W60","M19",2022,"m",2004,NA,1.206682816,9,0.006146345,"J strait CC",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.036666667,NA
+"W61","M19",2022,"m",2005,NA,1.188535949,9,0.013301441,"J strait CC",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.036666667,NA
+"W142","M19",2022,"m",2009,NA,1.14782834,7,0.003035596,"J strait CC",13,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.036666667,NA
+"W143","M19",2022,"f",2010,NA,1.169504666,5,0.010976928,"J strait CC",12,"Pregnant","Pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.036666667,NA
+"W12","M6",2022,"m",2014,NA,1.096419232,10,0.006129528,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.036666667,NA
+"W164","M6",2022,"f",2020,NA,1.134003221,6,0.012204597,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.036666667,NA
+"W63","M6",2022,"f",1984,NA,1.135143535,7,0.005470138,"J strait CC",38,"Nursing 3","Not pregnant","alive",4,5,2,2,"yes","yes","female reproductive","reproductive female",1.036666667,NA
+"W13","M6",2022,"f",1999,NA,1.138365563,10,0.006350621,"J strait CC",23,"Pregnant","Pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.036666667,NA
+"W14","M6",2022,"m",2005,NA,1.184260687,6,0.009947492,"J strait CC",17,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.036666667,NA
+"W15","M6",2022,"m",2011,NA,1.157097656,10,0.01306515,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.036666667,NA
+"W70","M7",2022,"f",2012,NA,1.143902609,5,0.00835705,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.036666667,NA
+"W16","M7",2022,"m",2013,NA,1.119483434,10,0.014052487,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.036666667,NA
+"W74","M7",2022,"f",2016,NA,1.111138472,6,0.013610668,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.036666667,NA
+"W144","M7",2022,"f",2018,NA,1.106203712,8,0.008940036,"J strait CC",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.036666667,NA
+"W151","M7",2022,"m",2019,NA,1.076703012,4,0.006640216,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.036666667,NA
+"W194","M7",2022,"u",2021,NA,1.132395437,3,0.010429057,"J strait CC",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.036666667,NA
+"W17","M7",2022,"f",1989,NA,1.190137063,6,0.00720778,"J strait CC",33,"Pregnant","Pregnant","alive",4,6,1,3,"yes","no","female reproductive","reproductive female",1.036666667,NA
+"W64","M7",2022,"f",2002,NA,1.168961705,3,0.007993643,"J strait CC",20,"Nursing 2","Nursing","alive",3,3,0,2,"no","no","female reproductive","reproductive female",1.036666667,NA
+"W18","M7",2022,"f",2006,NA,1.204503844,9,0.008653244,"J strait CC",16,"Pregnant","Pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.036666667,NA
+"W87","M22",2022,"m",2012,NA,1.1307729,1,NA,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.036666667,NA
+"W89","M22",2022,"f",2017,NA,1.147041072,4,0.007931245,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.036666667,NA
+"W90","M22",2022,"f",1996,NA,1.212179387,3,0.00850946,"J strait CC",26,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","no","female reproductive","reproductive female",1.036666667,NA
+"W92","M22",2022,"f",2005,NA,1.224008499,1,NA,"J strait CC",17,"Not pregnant","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.036666667,NA
+"W94","M22",2022,"m",2011,NA,1.149801525,5,0.011212526,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.036666667,NA
+"W67","M22",2022,"m",2012,NA,1.105190284,1,NA,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.036666667,NA
+"W43","M15",2022,"m",2004,NA,1.152500159,5,0.008350297,"J strait CC",18,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.036666667,NA
+"W44","M15",2022,"f",1974,NA,1.181759724,5,0.022339429,"J strait CC",48,"Not pregnant","Not pregnant","alive",2,4,2,0,"yes","yes","female post reproductive","post reproductive female",1.036666667,NA
+"W46","M15",2022,"m",1997,NA,1.210943588,5,0.013498051,"J strait CC",25,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.036666667,NA
+"W50","M17",2022,"f",2003,NA,1.174054631,6,0.012878057,"J strait CC",19,"Nursing 1","Nursing","alive",1,2,1,0,"yes","no","female reproductive","reproductive female",1.036666667,NA
+"W198","M17",2022,"m",2022,NA,1.143188572,2,0.001827295,"J strait CC",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.036666667,"alive"
+"W51","M17",2022,"f",1980,NA,1.203638597,6,0.00629206,"J strait CC",42,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female post reproductive","post reproductive female",1.036666667,NA
+"W52","M17",2022,"m",1997,NA,1.205185594,1,NA,"J strait CC",25,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.036666667,NA
+"W54","M18",2022,"m",2007,NA,1.234774453,8,0.006614213,"J strait CC",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.036666667,NA
+"W55","M18",2022,"u",2014,NA,1.104608672,6,0.014190592,"J strait CC",8,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.036666667,NA
+"W181","M18",2022,"f",2020,NA,1.092375934,7,0.003548713,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.036666667,NA
+"W56","M18",2022,"f",1990,NA,1.164901202,5,0.005888236,"J strait CC",32,"Nursing 3","Not pregnant","alive",3,4,1,1,"yes","yes","female reproductive","reproductive female",1.036666667,NA
+"W157","M32",2022,"m",1987,NA,1.200478464,3,0.009279119,"J strait CC",35,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.036666667,NA
+"W199","M39",2022,"f",1994,NA,1.182042282,3,0.006620304,"J strait CC",28,"Not pregnant","Not pregnant","alive",4,4,0,2,"no","no","female reproductive","reproductive female",1.036666667,NA
+"W200","M39",2022,"u",2015,NA,1.072740747,3,0.0046837,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.036666667,NA
+"W201","M39",2022,"u",2019,NA,1.073826574,6,0.012783313,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.036666667,NA
+"W71","M1",2023,"f",2014,NA,1.1682332,2,0.008103488,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W187","M1",2023,"m",2021,NA,1.114524042,7,0.007169542,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.48,NA
+"W1","M1",2023,"f",1981,NA,1.261050886,4,0.025445948,"J strait CC",42,"Not pregnant","Not pregnant","alive",1,2,0,1,"no","no","female post reproductive","post reproductive female",1.48,NA
+"W2","M1",2023,"m",1992,NA,1.221157275,6,0.015310577,"J strait CC",31,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W3","M1",2023,"f",1997,NA,1.178249065,6,0.006464784,"J strait CC",26,"Nursing 3","Not pregnant","alive",3,3,2,1,"yes","yes","female reproductive","reproductive female",1.48,NA
+"W4","M1",2023,"m",2009,NA,1.162342921,18,0.010864963,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.48,NA
+"W202","M5",2023,"m",2009,NA,1.136306055,8,0.007603904,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.48,NA
+"W159","M2",2023,"m",2019,NA,1.118835551,8,0.008684021,"J strait CC",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.48,NA
+"W5","M2",2023,"m",1994,NA,1.264004296,10,0.008591242,"J strait CC",29,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W203","M20",2023,"u",2011,NA,1.099146414,1,NA,"J strait CC",12,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W204","M40",2023,"u",2013,NA,1.174613417,9,0.00633376,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W188","M20",2023,"u",2016,NA,1.142536986,4,0.01382966,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W160","M20",2023,"u",2017,NA,1.099598963,2,0.004084409,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W189","M40",2023,"m",2020,NA,1.127434953,7,0.012702265,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.48,NA
+"W190","M20",2023,"u",2021,NA,1.118558579,2,0.002322024,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.48,NA
+"W191","M20",2023,"f",2021,NA,1.107987352,4,0.006095444,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.48,NA
+"W192","M20",2023,"f",1987,NA,1.199475435,12,0.008861929,"J strait CC",36,"Not pregnant","Not pregnant","alive",3,4,2,0,"yes","yes","female reproductive","reproductive female",1.48,NA
+"W193","M20",2023,"f",1999,NA,1.13643678,8,0.008404067,"J strait CC",24,"Nursing 3","Not pregnant","alive",3,3,0,0,"no","no","female reproductive","reproductive female",1.48,NA
+"W162","M20",2023,"m",2003,NA,1.202880356,1,NA,"J strait CC",20,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W62","M40",2023,"m",2004,NA,1.197235517,12,0.011342788,"J strait CC",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W163","M20",2023,"f",2008,NA,1.144401511,3,0.004841526,"J strait CC",15,"Nursing 3","Not pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",1.48,NA
+"W8","M5",2023,"f",2013,NA,1.145754341,5,0.01092016,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W149","M5",2023,"f",2017,NA,1.126048377,5,0.010463046,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W150","M5",2023,"m",2018,NA,1.124065998,2,0.014168142,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.48,NA
+"W9","M5",2023,"f",1980,NA,1.20214524,6,0.008786261,"J strait CC",43,"Not pregnant","Not pregnant","alive",4,6,0,4,"no","no","female post reproductive","post reproductive female",1.48,NA
+"W11","M5",2023,"f",2004,NA,1.200379343,14,0.007853462,"J strait CC",19,"Pregnant","Pregnant","alive",1,1,1,0,"yes","no","female reproductive","reproductive female",1.48,NA
+"W69","M5",2023,"f",2008,NA,1.160681321,3,0.016969731,"J strait CC",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.48,"alive"
+"W70","M7",2023,"f",2012,NA,1.147465967,4,0.011689929,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W16","M7",2023,"m",2013,NA,1.115150309,4,0.012214734,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.48,NA
+"W74","M7",2023,"f",2016,NA,1.111905372,5,0.019427212,"J strait CC",7,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W144","M7",2023,"f",2018,NA,1.13574446,6,0.005580684,"J strait CC",5,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W151","M7",2023,"m",2019,NA,1.139208215,3,0.003995984,"J strait CC",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.48,NA
+"W194","M7",2023,"u",2021,NA,1.119076275,2,0.002758856,"J strait CC",2,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.48,NA
+"W205","M7",2023,"m",2023,NA,1.183011918,3,0.00755551,"J strait CC",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.48,NA
+"W206","M7",2023,"m",2023,NA,1.139141155,9,0.014663959,"J strait CC",0,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male calf","calf",1.48,NA
+"W17","M7",2023,"f",1989,NA,1.129119712,5,0.019528321,"J strait CC",34,"Nursing 1","Nursing","alive",5,7,2,3,"yes","no","female reproductive","reproductive female",1.48,NA
+"W64","M7",2023,"f",2002,NA,1.181754533,8,0.019448749,"J strait CC",21,"Nursing 3","Not pregnant","alive",3,3,0,2,"no","no","female reproductive","reproductive female",1.48,NA
+"W18","M7",2023,"f",2006,NA,1.182227368,4,0.016548584,"J strait CC",17,"Nursing 1","Nursing","alive",2,2,2,0,"yes","no","female reproductive","reproductive female",1.48,NA
+"W195","M34",2023,"f",2013,NA,1.115361891,1,NA,"J strait CC",10,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W166","M34",2023,"f",2017,NA,1.122042538,1,NA,"J strait CC",6,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W19","M8",2023,"m",1987,NA,1.189361408,7,0.013332632,"J strait CC",36,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W207","M8",2023,"f",1991,NA,1.195129351,4,0.014368518,"J strait CC",32,"Not pregnant","Not pregnant","alive",4,4,3,0,"yes","yes","female reproductive","reproductive female",1.48,NA
+"W208","M8",2023,"m",2004,NA,1.230413876,12,0.013341933,"J strait CC",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W209","M8",2023,"m",2008,NA,1.190630966,13,0.016259533,"J strait CC",15,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.48,NA
+"W210","M8",2023,"m",2014,NA,1.137733751,2,0.003304744,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.48,NA
+"W211","M8",2023,"u",2020,NA,1.042883467,10,0.009906375,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown calf","calf",1.48,NA
+"W212","M8",2023,"f",1949,NA,1.164458946,2,0.004179348,"J strait CC",74,"Not Applicable","Not pregnant","alive",2,5,1,1,"yes","yes","female post reproductive","post reproductive female",1.48,NA
+"W213","M41",2023,"m",2004,NA,1.244789342,2,0.007238473,"J strait CC",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W214","M41",2023,"f",1971,NA,1.175725536,4,0.024104423,"J strait CC",52,"Not Applicable","Not pregnant","alive",1,4,1,0,"yes","yes","female post reproductive","post reproductive female",1.48,NA
+"W37","M14",2023,"m",2004,NA,1.172934153,6,0.016986096,"J strait CC",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W38","M14",2023,"m",2009,NA,1.142338255,2,0.012872473,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.48,"dead"
+"W68","M14",2023,"f",2009,NA,1.162891734,19,0.011365082,"J strait CC",14,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female reproductive","reproductive female",1.48,"alive"
+"W39","M14",2023,"f",2014,NA,1.133621817,6,0.007506227,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W180","M14",2023,"f",2020,NA,1.114026753,10,0.009296586,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.48,NA
+"W41","M14",2023,"f",1986,NA,1.146601601,7,0.006304955,"J strait CC",37,"Not pregnant","Not pregnant","alive",4,4,1,3,"yes","yes","female reproductive","reproductive female",1.48,NA
+"W42","M14",2023,"m",2002,NA,1.177184808,3,0.010206682,"J strait CC",21,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W43","M15",2023,"m",2004,NA,1.177363408,7,0.012411704,"J strait CC",19,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W44","M15",2023,"f",1974,NA,1.184243391,3,0.005639803,"J strait CC",49,"Not pregnant","Not pregnant","alive",2,4,2,0,"yes","yes","female post reproductive","post reproductive female",1.48,NA
+"W46","M15",2023,"m",1997,NA,1.233291762,2,0.012516163,"J strait CC",26,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W128","M27",2023,"f",2006,NA,1.197361423,4,0.014995418,"J strait CC",17,"Not pregnant","Not pregnant","alive",1,1,0,1,"no","no","female reproductive","reproductive female",1.48,NA
+"W215","M27",2023,"f",2020,NA,1.139170214,9,0.009274023,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.48,NA
+"W130","M27",2023,"m",1985,NA,1.219424676,15,0.006296454,"J strait CC",38,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W47","M16",2023,"f",2002,NA,1.13990176,4,0.008575233,"J strait CC",21,"Nursing 2","Nursing","alive",2,2,0,2,"no","no","female reproductive","reproductive female",1.48,NA
+"W132","M16",2023,"m",2007,NA,1.181291991,3,0.016082921,"J strait CC",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.48,NA
+"W48","M16",2023,"u",2012,NA,1.116583161,4,0.005902541,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W49","M16",2023,"f",2014,NA,1.101083167,4,0.008504408,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female juvenile","juvenile",1.48,NA
+"W216","M16",2023,"f",2022,NA,1.120016103,1,NA,"J strait CC",1,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.48,NA
+"W133","M16",2023,"f",1974,NA,1.186139612,7,0.013320472,"J strait CC",49,"Not pregnant","Not pregnant","alive",3,7,1,1,"yes","yes","female post reproductive","post reproductive female",1.48,NA
+"W50","M17",2023,"f",2003,NA,1.180958065,5,0.006539657,"J strait CC",20,"Nursing 2","Nursing","alive",1,2,1,0,"yes","no","female reproductive","reproductive female",1.48,NA
+"W51","M17",2023,"f",1980,NA,1.198092816,14,0.016944952,"J strait CC",43,"Not pregnant","Not pregnant","alive",2,2,1,1,"yes","yes","female post reproductive","post reproductive female",1.48,NA
+"W52","M17",2023,"m",1997,NA,1.214746035,10,0.007142419,"J strait CC",26,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W54","M18",2023,"m",2007,NA,1.246089911,5,0.004489052,"J strait CC",16,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","sexually mature male","sexually mature male",1.48,NA
+"W55","M18",2023,"u",2014,NA,1.132727381,6,0.01097653,"J strait CC",9,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W181","M18",2023,"f",2020,NA,1.108265236,4,0.011114968,"J strait CC",3,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","female calf","calf",1.48,NA
+"W56","M18",2023,"f",1990,NA,1.172036356,3,0.013616375,"J strait CC",33,"Not pregnant","Not pregnant","alive",3,4,1,1,"yes","yes","female reproductive","reproductive female",1.48,NA
+"W134","M28",2023,"m",2012,NA,1.137521062,16,0.007054916,"J strait CC",11,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","male juvenile","juvenile",1.48,"alive"
+"W135","M28",2023,"f",1991,NA,1.190688125,4,0.008984599,"J strait CC",32,"Not pregnant","Not pregnant","alive",1,2,1,0,"yes","no","female reproductive","reproductive female",1.48,NA
+"W182","M38",2023,"f",1979,NA,1.171786235,2,0.000471261,"J strait CC",44,"Not pregnant","Not pregnant","alive",2,2,0,1,"no","no","female post reproductive","post reproductive female",1.48,NA
+"W183","M38",2023,"f",2005,NA,1.176509279,2,0.005536037,"J strait CC",18,"Not pregnant","Not pregnant","alive",1,1,0,0,"no","no","female reproductive","reproductive female",1.48,NA
+"W185","M38",2023,"u",2019,NA,1.096953911,2,0.006696612,"J strait CC",4,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","unknown juvenile","juvenile",1.48,NA
+"W217","M42",2023,"f",1971,NA,1.187286184,5,0.013443539,"J strait CC",52,"Not Applicable","Not pregnant","alive",3,4,2,1,"yes","yes","female post reproductive","post reproductive female",1.48,NA
+"W218","M42",2023,"m",1996,NA,1.2349247,3,0.00988107,"J strait CC",27,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
+"W219","M42",2023,"m",2002,NA,1.183552324,5,0.009853194,"J strait CC",21,"Not Applicable","Not pregnant","alive",0,0,0,0,"no","no","physically mature male","physically mature male",1.48,NA
